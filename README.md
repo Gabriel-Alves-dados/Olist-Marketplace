@@ -61,4 +61,4 @@ Sinta-se à vontade para explorar, comentar ou contribuir!
 ##  Contato
 
 Gabriel Alves — [LinkedIn](https://www.linkedin.com/in/gabriel-alves-dados/)  
-🌐 Artigo completo no Medium: [Leia aqui]([https://lnkd.in/dvM7dgU8](https://medium.com/@gabrielhanszmann/análise-de-dados-reais-da-olist-com-power-bi-c16cafe2a35d))
+
