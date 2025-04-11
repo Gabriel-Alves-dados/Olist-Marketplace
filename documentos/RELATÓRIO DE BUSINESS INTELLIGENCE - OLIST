@@ -1,0 +1,35 @@
+# RELATÓRIO DE BUSINESS INTELLIGENCE - OLIST
+
+Gabriel Alves - Analista de Dados
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+## OBJETIVO DO PROJETO
+
+Este projeto teve como objetivo transformar dados reais da Olist — um marketplace brasileiro — em insights estratégicos por meio do Power BI.
+A análise cobre o comportamento de compra, atrasos logísticos e métodos de pagamento entre 2016 e 2018.
+
+
+## PROCESSO DE ANÁLISE DE DADOS  
+
+	•	Importação e limpeza de dados diretamente no Power BI
+	•	Modelagem relacional entre pedidos, itens, pagamentos e produtos
+	•	Criação de medidas com DAX: Receita Total, Ticket Médio, Prazo de Entrega e outros
+	•	Construção de dashboard interativo com filtros por categoria, tipo de pagamento e sazonalidade
+
+
+## PRINCIPAIS INSIGHTS  
+
+	•	Alguns segmentos apresentaram forte sazonalidade em datas específicas, como Natal e Black Friday
+	•	Atrasos de entrega mais frequentes em categorias de maior volume
+	•	Cartão de crédito é disparado o método de pagamento mais utilizado
+	•	O tempo médio de entrega varia entre estados e categorias, revelando possíveis gargalos logísticos
+
+## CONCLUSÃO
+
+O projeto demonstra o poder do Business Intelligence para compreender operações reais de e-commerce e apoiar decisões estratégicas.
+A estrutura visual facilita a identificação de padrões e anomalias, contribuindo para melhorias logísticas e comerciais.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
