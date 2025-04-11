@@ -25,7 +25,7 @@ Olist-Marketplace/
 │   ├── modelo_dados.png  
 │   └── print_metricas.png  
 
-##Principais Insights
+## Principais Insights
 
 -  **Categorias com maior volume de vendas**: Artigos de cama, mesa e banho lideram o volume de pedidos, sugerindo alta demanda por itens domésticos.
 - **Atrasos logísticos**: Pedidos com atrasos de entrega estão concentrados em algumas categorias, como esportes e utilidades domésticas.
