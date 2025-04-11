@@ -12,18 +12,18 @@ A base de dados foi obtida via Kaggle e representa transações reais entre 2016
 
 O resultado é um painel dinâmico que permite ao usuário explorar os dados e gerar insights para decisões baseadas em evidências.
 
-## 🗂️ Estrutura do Repositório
+##  Estrutura do Repositório
 
-Olist-Marketplace/
-├── README.md
-├── powerbi/
-│   └── Olist_Dashboard.pbix
-├── documentos/
-│   └── relatorio_olist.pdf
-├── imagens/
-│   ├── dashboard.png
-│   ├── modelo_dados.png
-│   └── print_metricas.png
+Olist-Marketplace/  
+├── README.md  
+├── powerbi/  
+│   └── Olist_Dashboard.pbix  
+├── documentos/ 
+│   └── relatorio_olist.pdf  
+├── imagens/  
+│   ├── dashboard.png  
+│   ├── modelo_dados.png  
+│   └── print_metricas.png  
 
 ##Principais Insights
 
@@ -44,7 +44,7 @@ Esses insights foram gerados a partir de filtros dinâmicos, medidas DAX e visua
 
 Este projeto simula um pipeline real de Business Intelligence, combinando análise exploratória com visão estratégica.
 
-## 🖥 Como visualizar o projeto
+##  Como visualizar o projeto
 
 - Acesse o arquivo `.pbix` em `/powerbi` para visualizar no Power BI Desktop
 
