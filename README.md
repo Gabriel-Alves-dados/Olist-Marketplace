@@ -1,6 +1,8 @@
 # Olist Marketplace – Análise de Dados com Power BI  
 Análise exploratória e estratégica com foco em comportamento de compra, atrasos logísticos e performance de vendas.
 
+## Projeto 
+
 Este projeto tem como objetivo transformar dados reais da Olist — um marketplace brasileiro — em insights estratégicos por meio da criação de um dashboard interativo no Power BI.
 
 A base de dados foi obtida via Kaggle e representa transações reais entre 2016 e 2018. Através de técnicas de Business Intelligence, ETL, modelagem relacional e criação de medidas com DAX, o projeto busca responder questões chave do negócio como:
